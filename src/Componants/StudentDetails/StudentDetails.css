@@ -1,0 +1,15 @@
+.StudentDetailsInfo{
+    display: flex;
+    border-bottom: 1px solid gray;
+}
+
+.Topic{
+color: green;
+}
+.course{
+    margin-bottom : 10px;
+}
+.btn{
+    border-radius: 5px;
+    background-color:rgba(0, 128, 0, 0.61);
+}
